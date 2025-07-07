@@ -79,8 +79,8 @@ Procedure PL/SQL para controle de mensalidades com lógica automatizada de suspe
 
 ## 📈 GitHub Stats
 
-![Jose Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![Jose Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRoberto1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRoberto1&layout=compact&theme=tokyonight)
 
 ---
 
